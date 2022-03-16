@@ -1,6 +1,6 @@
 # travel_ui1
 
-A new Flutter application.
+The UI design of Travel App. The design was taken from https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience
 
 ## Getting Started
 
